@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there! 👋 Welcome to my GitHub profile!
 
-<!--
-**Burningirl/Burningirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+💡 **Hello! My name is Iris**
+- 🎓 I am BME Student at Ecole Centrale Mediteranne in Marseille.
+- 💻 Passionate about ML/DL, biomedical imaging/signal, data science, open-source contributions.
+- 🚀 Currently learning more about ML/DL
+- 🌱 Always looking to collaborate on exciting projects and innovative ideas!
 
-Here are some ideas to get you started:
+#### Skills & Technologies
+🔹 **Technical Skills:**
+- 💻 Programming: Python, MySQL, Matlab
+- 📊 Databases: MySQL
+- 🔧 Tools: Git, Docker, VS Code, Spyder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects & Contributions
+📌 Stay Tuned
+
+#### Let's Connect! 🌍
+📬 Feel free to reach out:
+- 🐦 [Twitter](https://x.com/Burningirl_)
+
+⚡ **Fun Fact:** It's iris just like the eyes 😉
+
+🚀 *Let's build something amazing together!*
